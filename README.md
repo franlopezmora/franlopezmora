@@ -46,7 +46,7 @@ I am an Information Systems Engineering student, currently finishing my bachelor
 <a href= "https://www.instagram.com/fran.lopezmora/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="www.linkedin.com/in/franciscolopezmora" >
+<a href="https://www.linkedin.com/in/franciscolopezmora" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
