@@ -52,6 +52,15 @@ I am an Information Systems Engineering student, currently finishing my bachelor
 
 </span>
 
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+
+
+
+
+</span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
